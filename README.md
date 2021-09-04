@@ -1,4 +1,5 @@
 <h2 align="left">Hi 🤗, I'm Carlos</h2>
+<img src= "https://user-images.githubusercontent.com/82521019/132091155-f0a29ca8-9ba9-4294-9acd-4c88b61460c7.png"></img>
 <h3>This is my Github page you are welcome</h3>
 I was a physics student at the university but them in the career I realised that what passionate me is coding!. So, I moved to study a vocational training in Web Development.
 Now I'm finishing my last year and working on improving my code.
@@ -21,7 +22,7 @@ Now I'm finishing my last year and working on improving my code.
 - My vocational training 🚀
 
 #### 🧑🏻‍💻 Languages and tools
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img width="12%" src="https://user-images.githubusercontent.com/82521019/132091341-6715aab5-902d-4ecf-b3d5-6a0bb5ab1a76.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
