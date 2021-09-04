@@ -21,10 +21,8 @@ Now I'm finishing my last year and working on improving my code.
 - My vocational training 🚀
 
 #### 🧑🏻‍💻 Languages and tools
-<code><img width="10%" src="https://vecta.io/app/publish/-Mik6uirviGzW3Ac_7g7/javascript"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
