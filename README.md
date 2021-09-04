@@ -38,4 +38,4 @@ Now I'm finishing my last year and working on improving my code.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 #### 🌍 Websites I use to improve my skills
-[![Profile badge](https://www.codewars.com/users/charls96/badges/large)](https://www.codewars.com/users/hugmanrique)
+[![Profile badge](https://www.codewars.com/users/charls96/badges/large)](https://www.codewars.com/users/charls96)
