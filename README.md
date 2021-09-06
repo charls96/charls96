@@ -28,6 +28,7 @@ Now I'm finishing my last year and working on improving my code.
 #### 🐱‍🏍 I'm working on 
 - My portfolio website
 - Web API
+- Stuff in [Codepen](https://codepen.io/charls1996/pens/showcase)
 - Resolving coding problems in [php](https://github.com/charls96/php-exercises) and [javascript](https://github.com/charls96/js-exercises)
 - My vocational training 🚀
 
