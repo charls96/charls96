@@ -34,9 +34,15 @@ Now I'm finishing my last year and working on improving my code.
 
 #### 🧑🏻‍💻 Languages and tools
 <code><img width="12%" src="https://user-images.githubusercontent.com/82521019/132091341-6715aab5-902d-4ecf-b3d5-6a0bb5ab1a76.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+
 
 #### 🌍 Websites I use to improve my skills
 [![Profile badge](https://www.codewars.com/users/charls96/badges/large)](https://www.codewars.com/users/charls96)
