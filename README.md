@@ -17,7 +17,7 @@ Now I'm finishing my last year and working on improving my code.
 #### 👯 I’m looking for a web development internship
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:charly.lopez.perez@gmail.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/charls96)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](#)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/carlos-daniel-lópez-pérez-4b80ba225)
 
 #### ❤ Things I love 
 - Waking up early to size the day
