@@ -11,8 +11,8 @@ console.log(answer);
 
 <h3>This is my Github page</h3>
 
-I was a physics student at the university of Murcia, but then in the career I realised that what passionate me is coding!. So, I moved to study a *_vocational training_* in ***Web Development***.
-Now I'm finishing my last year and working on improving my code.
+I was studying physics at the university of Murcia, but then in the career I realised that what passionate me is coding!. So, I moved to study a *_vocational training_* in ***Web Development***.
+Now I'm finishing my last year and working on improve my code.
 
 #### 👯 I’m looking for a web development internship
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:charly.lopez.perez@gmail.com)
