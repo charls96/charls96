@@ -29,7 +29,7 @@ Now I'm finishing my last year and working on improve my code.
 - My [portfolio website](https://www.carlosdaniel.xyz)
 - Web API
 - Stuff in [Codepen](https://codepen.io/charls1996/pens/showcase)
-- Resolving coding problems in [php](https://github.com/charls96/php-exercises) and [javascript](https://github.com/charls96/js-exercises)
+- Resolve coding problems in [php](https://github.com/charls96/php-exercises) and [javascript](https://github.com/charls96/js-exercises)
 - My vocational training 🚀
 
 #### 🧑🏻‍💻 Languages and tools
