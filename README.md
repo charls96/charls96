@@ -11,7 +11,7 @@ console.log(answer);
 
 <h3>This is my Github page</h3>
 
-I was a physics student at the university but them in the career I realised that what passionate me is coding!. So, I moved to study a *_vocational training_* in ***Web Development***.
+I was a physics student at the university but then in the career I realised that what passionate me is coding!. So, I moved to study a *_vocational training_* in ***Web Development***.
 Now I'm finishing my last year and working on improving my code.
 
 #### 👯 I’m looking for a web development internship
@@ -20,13 +20,13 @@ Now I'm finishing my last year and working on improving my code.
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-lópez-pérez-4b80ba225)
 
 #### ❤ Things I love 
-- Waking up early to size the day
+- Waking up early to seize the day
 - Challenge myself with coding
 - Cooking 🍪 and astronomy 🪐
 - Gym 💪, tennis 🎾, guitar 🎸 and chess ♟
 
 #### 🐱‍🏍 I'm working on 
-- My portfolio website
+- My [portfolio website](https://www.carlosdaniel.xyz)
 - Web API
 - Stuff in [Codepen](https://codepen.io/charls1996/pens/showcase)
 - Resolving coding problems in [php](https://github.com/charls96/php-exercises) and [javascript](https://github.com/charls96/js-exercises)
