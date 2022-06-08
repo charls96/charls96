@@ -11,9 +11,8 @@ console.log(answer);
 
 <h3>This is my Github page</h3>
 
-My passion is coding, going to the gym, hang out with my friends and taking care of my beloved hair!. I'm finishing my last year of my *_vocational training_* in ***Web Development*** and looking for an internship abroad, if you're interested send me an email. 😋
+My passion is coding, going to the gym, hang out with my friends and taking care of my beloved hair!.
 
-#### 👯 I’m looking for a web development internship
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:charly.lopez.perez@gmail.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/charls96)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-lópez-pérez-4b80ba225)
