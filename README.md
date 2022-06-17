@@ -28,7 +28,6 @@ My passion is coding, going to the gym, hang out with my friends and taking care
 - Web API
 - Stuff in [Codepen](https://codepen.io/charls1996/pens/showcase)
 - Resolve coding problems in [php](https://github.com/charls96/php-exercises) and [javascript](https://github.com/charls96/js-exercises)
-- My vocational training 🚀
 
 #### 🧑🏻‍💻 Languages and tools
 <code><img width="12%" src="https://user-images.githubusercontent.com/82521019/132091341-6715aab5-902d-4ecf-b3d5-6a0bb5ab1a76.png"></code>
