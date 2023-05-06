@@ -32,6 +32,7 @@ My passion is coding, going to the gym, hang out with my friends and taking care
 #### 🧑🏻‍💻 Languages and tools
 <code><img width="12%" src="https://user-images.githubusercontent.com/82521019/132091341-6715aab5-902d-4ecf-b3d5-6a0bb5ab1a76.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
