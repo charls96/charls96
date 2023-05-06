@@ -10,6 +10,7 @@ console.log(answer);
 ```
 
 <h3>This is my Github page</h3>
+You can check also my [website](https://www.carlosdaniel.xyz)
 
 My passion is coding, going to the gym, hang out with my friends and taking care of my beloved hair!.
 
@@ -22,12 +23,11 @@ My passion is coding, going to the gym, hang out with my friends and taking care
 - Challenge myself with coding
 - Cooking 🍪 and astronomy 🪐
 - Gym 💪, tennis 🎾, guitar 🎸 and chess ♟
+- Travelling 🚀
 
 #### 🐱‍🏍 I'm working on 
-- My [portfolio website](https://www.carlosdaniel.xyz)
-- Web API
-- Stuff in [Codepen](https://codepen.io/charls1996/pens/showcase)
-- Resolve coding problems in [php](https://github.com/charls96/php-exercises) and [javascript](https://github.com/charls96/js-exercises)
+- Personal projects
+- Personal growing
 
 #### 🧑🏻‍💻 Languages and tools
 <code><img width="12%" src="https://user-images.githubusercontent.com/82521019/132091341-6715aab5-902d-4ecf-b3d5-6a0bb5ab1a76.png"></code>
